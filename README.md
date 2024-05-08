@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Halo, Saya BB22 👋</h1>
 
-<!--
-**Semutireng22/Semutireng22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>Selamat datang di profil saya! Saya BB22, atau yang biasa dikenal sebagai Semutireng22. Saya adalah seorang penggemar pemrograman dengan rasa ingin tahu yang besar, selalu mencari peluang untuk belajar dan berkembang dalam dunia teknologi. Saya juga seorang penulis amatir dan penggemar crypto. Mari bersama-sama menjelajahi dunia teknologi dan menciptakan hal-hal baru!</samp>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://x.com/zaxstorm22"><img src="https://img.shields.io/badge/Twitter-%40zaxstorm22-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://facebook.com/slamet.wibowo22"><img src="https://img.shields.io/badge/Facebook-slamet.wibowo22-blue?style=for-the-badge&logo=facebook" alt="Facebook"></a>
+  <a href="https://t.me/jodohsaya"><img src="https://img.shields.io/badge/Telegram-jodohsaya-blue?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Semutireng22&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <samp>Terima kasih telah mengunjungi profil saya! Jangan ragu untuk terhubung dengan saya di media sosial atau melalui pesan langsung di GitHub. Mari berkolaborasi dan menciptakan hal-hal hebat bersama!</samp>
+</p>
