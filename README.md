@@ -1,7 +1,19 @@
-<h1 align="center">Halo, Saya BB22 👋</h1>
+<h1 align="center">Halo Dunia! Saya BB22 🚀</h1>
 
 <p align="center">
-  <samp>Selamat datang di profil saya! Saya BB22, atau yang biasa dikenal sebagai Semutireng22. Saya adalah seorang penggemar pemrograman dengan rasa ingin tahu yang besar, selalu mencari peluang untuk belajar dan berkembang dalam dunia teknologi. Saya juga seorang penulis amatir dan penggemar crypto. Mari bersama-sama menjelajahi dunia teknologi dan menciptakan hal-hal baru!</samp>
+  <samp>Selamat datang di laman profil saya! Saya BB22, juga dikenal sebagai Semutireng22. Seorang pengembara digital yang bergairah dalam dunia pemrograman dan teknologi. Saya senang mengeksplorasi konsep-konsep baru, menciptakan solusi yang inovatif, dan berbagi pengetahuan saya dengan komunitas.</samp>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coder GIF" width="500" height="300">
+</p>
+
+<h2 align="center">Pengalaman Saya 🏆</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-Expert-yellow?style=for-the-badge" alt="Codeforces Expert">
+  <img src="https://img.shields.io/badge/HackerRank-5%20Stars-brightgreen?style=for-the-badge" alt="HackerRank 5 Stars">
+  <img src="https://img.shields.io/badge/LeetCode-Top%203%25-orange?style=for-the-badge" alt="LeetCode Top 3%">
 </p>
 
 <p align="center">
@@ -15,5 +27,5 @@
 </p>
 
 <p align="center">
-  <samp>Terima kasih telah mengunjungi profil saya! Jangan ragu untuk terhubung dengan saya di media sosial atau melalui pesan langsung di GitHub. Mari berkolaborasi dan menciptakan hal-hal hebat bersama!</samp>
+  <samp>Jangan ragu untuk terhubung dengan saya melalui media sosial atau pesan langsung di GitHub. Mari bersama-sama menjelajahi dunia teknologi, belajar, dan menciptakan hal-hal luar biasa!</samp>
 </p>
