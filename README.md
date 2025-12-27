@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,git,docker,linux,vscode,md&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,git,linux,vscode,md,nextjs&perline=6" />
   </a>
 </div>
 
@@ -78,7 +78,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Semutireng22/Semutireng22/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Semutireng22&theme=tokyonight" alt="Activity Graph" />
 </div>
 
 ---
